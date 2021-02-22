@@ -1,6 +1,6 @@
-### Hi there, I'm Hritik 👋
+## Hi there, I'm Hritik 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Computer Science Engineer, Developer, and Learner!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
