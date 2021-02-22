@@ -16,7 +16,7 @@
   <img src="https://profile-counter.glitch.me/hritik1228/count.svg" />
 </p>
 
-## Find me around the web 🌎
+### Find me around the web 🌎
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/hritikcsengr/)
 - Your future buddy to discuss tech in general on [Twitter](https://twitter.com/Hritik2812)
@@ -42,7 +42,3 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hritik1228&show_icons=true&hide_border=true" />
 
-[website]: https://hritik1228.000webhostapp.com/
-[twitter]: https://twitter.com/Hritik2812
-[instagram]: https://www.instagram.com/hr_hritik_/
-[linkedin]: https://www.linkedin.com/in/hritikcsengr/
