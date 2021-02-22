@@ -1,19 +1,18 @@
-## Hi there, I'm Hritik 👋
+## Hi there, I'm [Hritik!](https://hritik1228.000webhostapp.com/) 👋 💻
 
 ## I'm a Student, Computer Science Engineer, Developer, and Learner!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m Looking for a full-time opportunity
+- 🌱 I’m currently learning AWS
+- 🥅 2021 Goals: Contribute to Open Source projects, increase my learning horizon and Connections 
+- ⚡ Fun fact: I love to listen music and learn new things
 
 ## Find me around the web 🌎
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/hritikcsengr/)
+- Your future buddy to discuss tech in general on [Twitter](https://twitter.com/Hritik2812)
+- To add value in your life [Instagram](https://www.instagram.com/hr_hritik_/)
+- And of course GitHub you're already on (Recursion)
 
 <br />
 
