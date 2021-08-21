@@ -7,10 +7,6 @@
 - 🥅 2021 Goals: Contribute to Open Source projects, increase my learning horizon and Connections 
 - ⚡ Fun fact: I love to listen music and learn new things
 
-### Spotify Playing 🎧 Work with Fun
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hritik1228/count.svg" />
