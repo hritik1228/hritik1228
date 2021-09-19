@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://www.canva.com/design/DAEqeTBukpw/JDbQfslIMsUzn3079Y_aJQ/view?utm_content=DAEqeTBukpw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" height="175px"/></a>
+
 ## Hi there, I'm [Hritik!](https://hritik1228.000webhostapp.com/) 👋 💻
 
 ## I'm a Student, Computer Science Engineer, Developer, and Learner!!
