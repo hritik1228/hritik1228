@@ -40,7 +40,7 @@
 
 ---
 
-## My Github Stats 📊
+## My GitHub Stats 📊
 
   <br/>
     <a href="https://github.com/hritik1228/github-readme-stats"><img alt="Hritik Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hritik1228&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
