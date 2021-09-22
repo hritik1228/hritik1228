@@ -4,8 +4,8 @@
 
 ## I'm a Computer Science Engineer, Developer, and Learner from India🤝!!
 
-- 🔭 I’m Looking for a full-time opportunity
-- 🌱 I’m currently learning AWS
+- 🔭 I’m consistently learning new tools and enhancing my coding skills
+- 🌱 I’m currently learning JavaScript
 - 🥅 2021 Goals: Contribute to Open Source projects, increase my learning horizon and Connections 
 - ⚡ Fun fact: I love to listen music and learn new things
 
@@ -14,6 +14,7 @@
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/hritikcsengr/)
 - Your future buddy to discuss tech in general on [Twitter](https://twitter.com/Hritik2812)
 - To add value in your life [Instagram](https://www.instagram.com/hr_hritik_/)
+- Make Yourself Future Ready [YouTube](https://www.youtube.com/channel/UChAyPuFl7slFi3Xtom-HbLw)
 - And of course GitHub you're already on (Recursion)
 
 
