@@ -5,8 +5,8 @@
 ## I'm a Computer Science Engineer, Developer, and Learner from India🤝!!
 
 - 🔭 I’m consistently learning new tools and enhancing my coding skills
-- 🌱 I’m currently learning JavaScript
-- 🥅 2021 Goals: Contribute to Open Source projects, increase my learning horizon and Connections 
+- 🌱 I’m currently learning Next.Js
+- 🥅 2023 Goals: Contribute to Open Source projects, increase my learning horizon and Connections 
 - ⚡ Fun fact: I love to listen music and learn new things
 
 ## Find me around the web 🌎
