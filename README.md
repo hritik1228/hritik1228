@@ -5,8 +5,8 @@
 ## I'm a Computer Science Engineer, Software Developer, and Learner from India🤝!!
 
 - 🔭 I’m consistently learning new tools and enhancing my coding skills
-- 🌱 I’m currently learning Cloud Services AWS
-- 🥅 2024 Goals: Networking &  
+- 🌱 I’m currently learning AWS Cloud Services
+- 🥅 2024 Goals: Networking & Focus on Soft skills  
 - ⚡ Fun fact: I love to listen music and learn new things
 
 ## Find me around the web 🌎
