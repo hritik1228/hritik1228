@@ -2,11 +2,11 @@
 
 ## Hi there, I'm [Hritik!](https://linktr.ee/hritik1228) 👋 💻
 
-## I'm a Computer Science Engineer, Developer, and Learner from India🤝!!
+## I'm a Computer Science Engineer, Software Developer, and Learner from India🤝!!
 
 - 🔭 I’m consistently learning new tools and enhancing my coding skills
-- 🌱 I’m currently learning Next.Js
-- 🥅 2023 Goals: Contribute to Open Source projects, increase my learning horizon and Connections 
+- 🌱 I’m currently learning Cloud Services AWS
+- 🥅 2024 Goals: Networking &  
 - ⚡ Fun fact: I love to listen music and learn new things
 
 ## Find me around the web 🌎
